@@ -1,0 +1,15 @@
+{
+    "darkPrimary":"#5a189a",
+    "lightPrimary":"#B2DFDB",
+    "primary":"#5a189a",
+    "text":"#FFFFFF",
+    "accent":"#240046",
+    "primaryText":"#212121",
+    "secondary":"#757575",
+    "devider":"#e0aaff",
+    "switch":"#F0F4C3",
+    "switchNo":"#e0aaff",
+    "switchDot":"#CDDC39",
+    "switchDotNo":"white",
+    "loading":"#240046"
+}
